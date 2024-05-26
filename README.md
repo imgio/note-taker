@@ -11,9 +11,9 @@ To run locally:
 
 Clone the project locally. 
 Then from the backend folder, run: 
-npm i 
+npm i; 
 npm run dev 
 
 From the frontend folder, run: 
-npm i
+npm i;
 npm start
